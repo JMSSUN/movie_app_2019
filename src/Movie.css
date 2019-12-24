@@ -1,0 +1,20 @@
+.movie {
+    align-items: center;
+    background-color: #cccccc;
+    margin-top: 10px;
+    margin-right: 5px;
+    margin-left:5px;
+}
+
+div {
+    margin-left: 10px;
+}
+
+p{
+    padding-bottom: 10px;
+}
+
+img {
+    margin-top: 10px;
+    margin-left: 10px;
+}
